@@ -1,0 +1,4 @@
+admin can do all activities
+
+Change the roles
+git 
